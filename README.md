@@ -13,10 +13,6 @@ Esta ruta de aprendizaje presenta agentes en Microsoft Copilot y SharePoint, y m
 
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-### Capítulo 1. Introducción a los agentes
-
-Este capítulo corresponde a la introducción conceptual del curso y no contiene una práctica independiente en el repositorio.
-
 ### Capítulo 2. Exploración de agentes de Microsoft 365 Copilot precompilados
 
 #### [Ejercicio 1: Uso del agente Analista](Capitulo02/README.md#ejercicio-1-uso-del-agente-analista)
@@ -60,17 +56,6 @@ Este capítulo corresponde a la introducción conceptual del curso y no contiene
 
 [Ver capítulo completo](Capitulo03/README.md).
 
-### Capítulo 4. Uso compartido y uso de agentes
-
-Este capítulo aborda el uso compartido de agentes con otros usuarios, su incorporación en Microsoft Teams y la interacción con ellos. No contiene una práctica independiente en el repositorio.
-
----
-
-Duración total de los laboratorios: 278 minutos (4 horas y 38 minutos).
-
-Duración total del curso según el temario: 360 minutos (6 horas).
-
-Distribución: 77.2 % de práctica y 22.8 % de teoría.
 
 ---
 
