@@ -8,7 +8,6 @@
 
 Esta ruta de aprendizaje presenta agentes en Microsoft Copilot y SharePoint, y muestra cómo los usuarios empresariales pueden crearlos y usarlos (sin codificación) para automatizar tareas, responder preguntas y respaldar los procesos empresariales diarios. A través de ejemplos prácticos, aprenda cómo funcionan los agentes dentro de las experiencias de Microsoft 365 y cómo crearlos, administrarlos y compartirlos para mejorar la productividad y la colaboración.
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md).
 
 ## Lista de laboratorios
 
