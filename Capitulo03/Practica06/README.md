@@ -1,6 +1,3 @@
----
-permalink: /Capitulo03/Practica06/
----
 
 # Práctica 6. Crear tres agentes guiados con Agent Builder
 
@@ -253,4 +250,3 @@ registro, indícalo y no lo completes por suposición.
 
 Se han creado y guardado **tres agentes independientes** en Microsoft 365 Copilot: `Nova Procedimientos` responde consultas fundamentadas en el manual de atención; `Nova Comunicaciones` redacta mensajes en formatos de recepción, seguimiento, aclaración o cierre sin inventar datos ni enviar correos; y `Nova Seguimiento` consulta las **36 solicitudes** de un libro Excel almacenado en OneDrive, cuenta estados y verifica registros por identificador. Cada agente conserva instrucciones, conocimiento e indicaciones sugeridas. No debe existir ninguna conexión que edite registros ni ejecute acciones de negocio.
 
-[Volver al capítulo 3](../)
