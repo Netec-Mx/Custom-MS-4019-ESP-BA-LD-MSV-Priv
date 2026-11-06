@@ -1,6 +1,3 @@
----
-permalink: /Capitulo03/Practica07/
----
 
 # Práctica 7. Compartir agentes y comprobar roles y permisos
 
@@ -125,4 +122,3 @@ el registro o si no tienes acceso a la fuente.
 
 El agente `Nova Procedimientos` se compartió desde Microsoft 365 Copilot y su vínculo se transmitió en Teams. Se verificó con usuarios diferenciados que **Puede chatear** permite consultar, mientras **Puede editar** otorga facultades de administración. Se comprobó, cuando existió una cuenta sin permisos, que el enlace por sí solo no concede acceso. Para `Nova Seguimiento` se contrastó el comportamiento con y sin permiso de lectura del libro en OneDrive. Finalmente, se probó la modificación o revocación del acceso conforme a las opciones disponibles en el tenant, sin tratar a Teams como un canal de publicación del agente.
 
-[Volver al capítulo 3](../)
