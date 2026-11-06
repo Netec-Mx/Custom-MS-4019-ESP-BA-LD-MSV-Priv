@@ -181,4 +181,3 @@ para generarla en Excel. No interpretes correlaciones como causalidad.
 
 La práctica concluye cuando se cuenta con: un informe Word de tres tendencias, un Excel de promedios y análisis cuantitativo, un gráfico de barras en imagen, un Word de comentarios, una presentación ejecutiva PowerPoint y las visualizaciones estadísticas complementarias (histograma, circular, dispersión y mapa de calor). Los cálculos deben proceder de las **120 respuestas originales** y ser verificables; cuando una exportación nativa no esté disponible, los archivos se materializan con las aplicaciones Microsoft 365 a partir de resultados comprobados de Analista.
 
-[Volver al listado de prácticas](../)
