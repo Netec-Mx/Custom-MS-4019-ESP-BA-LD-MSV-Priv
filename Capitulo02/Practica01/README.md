@@ -1,6 +1,4 @@
----
-permalink: /Capitulo02/Practica01/
----
+
 
 # Práctica 1. Uso del agente Analista
 
