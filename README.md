@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 <a href="https://netec.com">
   <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
 </a>
