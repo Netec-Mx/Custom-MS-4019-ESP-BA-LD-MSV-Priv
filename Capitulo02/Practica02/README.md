@@ -1,6 +1,3 @@
----
-permalink: /Capitulo02/Practica02/
----
 
 # Práctica 2. Uso del agente Investigador
 
@@ -182,5 +179,3 @@ no puedes generar el archivo directamente.
 ### Resultado esperado
 
 Quedan preparados los **11 entregables** solicitados: informe consolidado en Word; presentación ejecutiva en PowerPoint; matrices Excel de acciones, decisiones, entregables, preguntas abiertas e inventario de documentos; minuta Word; correo como borrador de Outlook; documento Word para preparar reuniones; y reporte de una página en Word. Todos se construyen con las cinco fuentes de Project Nexus; las decisiones, fechas y responsables citados deben ser trazables. La creación de archivos de Office no se atribuye exclusivamente a Investigador cuando se realiza desde Word, Excel o PowerPoint.
-
-[Volver al listado de prácticas](../)
