@@ -12,9 +12,6 @@ permalink: /
 
 Esta ruta de aprendizaje presenta los agentes disponibles en **Microsoft 365 Copilot** y muestra cómo los usuarios empresariales pueden utilizarlos y crear agentes personalizados sin programación mediante **Agent Builder**. A través de actividades prácticas, aprenderás a analizar información, investigar proyectos, configurar agentes para necesidades laborales, comprobar sus respuestas y compartirlos de forma controlada desde Microsoft 365 Copilot y Microsoft Teams.
 
-**Duración total del curso:** 6 horas. **Duración de las prácticas:** 278 minutos.
-
-Antes de comenzar, revisar la [guía general de preparación del entorno](SETUP_GUIDE.md). El [Capítulo 1. Introducción a los agentes](Capitulo01/) contiene los fundamentos necesarios; el [Capítulo 4. Uso compartido y uso de agentes](Capitulo04/) complementa los conceptos aplicados en el ejercicio de uso compartido del capítulo 3.
 
 ## Lista de laboratorios
 
@@ -37,7 +34,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción:** Seleccionar un agente precompilado para optimizar indicaciones, desarrollar ideas, mejorar comunicaciones o apoyar el aprendizaje. Aplicarlo a una necesidad laboral y comprobar la utilidad del producto obtenido.
 - ⏱️ **Duración estimada:** 19 min.
 
-[Ver capítulo completo](Capitulo02/).
+
 
 ### Capítulo 3. Creación, administración y uso compartido de agentes
 
@@ -61,7 +58,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción:** Compartir un agente desde Microsoft 365 Copilot y enviar su vínculo mediante Teams. Comprobar con distintas cuentas los permisos **Puede chatear** y **Puede editar**, verificar el acceso independiente a las fuentes de conocimiento y probar la modificación o revocación de permisos.
 - ⏱️ **Duración estimada:** 30 min.
 
-[Ver capítulo completo](Capitulo03/).
 
 ---
 
