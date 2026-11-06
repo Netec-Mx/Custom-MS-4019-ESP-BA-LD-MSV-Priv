@@ -1,6 +1,3 @@
----
-permalink: /Capitulo02/Practica03/
----
 
 # Práctica 3. Uso de un agente precompilado de tu elección
 
@@ -170,4 +167,3 @@ o a una infografía. No inventes cursos corporativos ni certificaciones.
 
 Se ha utilizado al menos **un agente precompilado** y obtenido su producto verificable: un prompt optimizado, una propuesta transformada en artefacto, dos versiones de comunicación o una síntesis y un plan de aprendizaje personalizado. Las rutas constituyen alternativas para una sola práctica de 19 minutos.
 
-[Volver al listado de prácticas](../)
