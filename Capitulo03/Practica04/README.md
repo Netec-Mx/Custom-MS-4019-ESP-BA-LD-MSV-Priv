@@ -1,6 +1,3 @@
----
-permalink: /Capitulo03/Practica04/
----
 
 # Práctica 4. Creación de un agente de Microsoft 365 Copilot Chat
 
@@ -149,4 +146,4 @@ el texto completo para guardarlo en Word.
 
 Se dispone del agente `Nexus Seguimiento` creado y localizable desde Microsoft 365 Copilot, con nombre, propósito, instrucciones, cinco fuentes de conocimiento e indicaciones sugeridas. El agente responde a pruebas de datos presentes y ausentes sin inventarlos y produce al menos un entregable de negocio verificable, como el informe Word propuesto.
 
-[Volver al listado de prácticas](../)
+
