@@ -1,6 +1,3 @@
----
-permalink: /Capitulo03/Practica05/
----
 
 # Práctica 5. Creación de un agente propio con Agent Builder
 
@@ -166,4 +163,4 @@ responsable, estado y fuente exacta. No agregues registros no sustentados.
 
 Existe un agente propio creado en Agent Builder, centrado en una necesidad concreta, con propósito, instrucciones, fuentes y preguntas sugeridas. Se ha comprobado una respuesta habitual, una consulta incompleta y una pregunta sin sustento, y el agente está guardado y accesible para su uso cotidiano. El agente conserva los ajustes aplicados durante la resolución de inquietudes y está disponible para compartirlo posteriormente, cuando corresponda.
 
-[Volver al listado de prácticas](../)
+
